@@ -99,7 +99,7 @@ function signin() {
 
 var templateParams = {
     to_name: 'User',
-    from_name: 'Rahul',
+    from_name: 'Yash',
     message: 'Please try again!'
   };
 
